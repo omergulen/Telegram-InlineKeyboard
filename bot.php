@@ -29,7 +29,7 @@ $message= file_get_contents("php://input");
 	$userFile = 'users/'.$chat_id;
 
 
-define('API_KEY','653534941:AAFc8j8BbdVZGp4hAV_sZK2O5ASzBKqkpIM'); //token bot
+define('API_KEY','YourapiKey'); //token bot
 //----######------
 function makereq($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
