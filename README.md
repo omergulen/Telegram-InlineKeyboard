@@ -13,3 +13,5 @@ https://medium.com/@xabaras/setting-your-telegram-bot-webhook-the-easy-way-c7577
 What is on-the-fly updating?:
 
 https://core.telegram.org/bots/2-0-intro#switch-to-inline-buttons
+
+example bot: https://t.me/stickersilicibot
