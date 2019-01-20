@@ -1,5 +1,5 @@
 # Telegram-InlineKeyboard On-the-fly updating project.
-Telegram on-the-fly updating example project with inline keyboard.
+Telegram on-the-fly updating example project with inline keyboard in php.
 
 
 
